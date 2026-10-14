@@ -6,7 +6,7 @@ Plotmap is a single HTML file. There is no build step, no dependencies and no se
 
 ![Plotmap showing a sample map with a marker card next to every marker](screenshot.png)
 
-**Live demo:** https://YOUR-USERNAME.github.io/YOUR-REPO/
+**Live demo:** https://codeblo.github.io/plotmap/
 
 ## Features
 
